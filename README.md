@@ -1,5 +1,4 @@
 # 2022-3b
-![nkust](nkust.png "nkust")
 
 Emphasis, aka italics, with asterisks or underscores.
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
@@ -20,7 +19,11 @@ Strikethrough uses two tildes. ~~Sefateh-this~~.
 >>>* note 2
 >>>* note 3
 
+![nkust](nkust.png "nkust")
+
+todo list
 - [ ] todo list
+- [ ] 2nd
 - [x] done
 
 🐷
