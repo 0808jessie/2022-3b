@@ -35,6 +35,7 @@ python
 s = "Python syntax highlighting"
 print (s)
 ```
+
 javascript code
 ```
 javascript
